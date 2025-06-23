@@ -1,0 +1,41 @@
+﻿travelerID,nationality,Country,place1,place2,place3,acc_type
+1,American ,Thailand,Grand Palace,Wat Arun,Ayutthaya Historical Park,Hotel
+2,American ,UK,British Museum,Big Ben,Stonehenge,Hotel
+3,American ,Japan,Shibuya Crossing,Mt Fuji,Himeji Castle,Hostel
+4,American ,Thailand,Ko Phi Phi,Chiang Mai Night Bazaar,Asiatique,Hotel
+5,American ,France,Eiffel Tower,Versailles,Louvre,Airbnb
+6,Japanese,USA,Niagara Falls,Grand Canyon,Yosemite National Park,Airbnb
+7,France,Thailand,Pattaya Walking Street,Wat Arun,Sukhothai Historical Park,Hotel
+8,American ,Thailand,Khao Yai National Park,Chiang Mai Night Bazaar,Ko Lipe,Hostel
+9,British,Japan,Mt Fuji,Himeji Castle,Shirakawago,Hostel
+10,Japanese,France,Mont Saint-Michel,Eiffel Tower,Strasbourg Old Town,Airbnb
+11,American ,France,Versailles,Cathédrale Notre Dame,Eiffel Tower,Hostel
+12,British,Japan,Mt Fuji,Nikko National Park,Shibuya Crossing,Hostel
+13,Japanese,Japan,Osaka Castle,Miyajima Island,Otaru,Airbnb
+14,Thai,Thailand,Similan Islands,Railay Beach,Phang Nga Bay,Hotel
+15,France,Thailand,Wat Arun,Wat Phra That Doi Suthep,Grand Palace,Hotel
+16,Thai,Thailand,Railay Beach,Phang Nga Bay,Ko Phi Phi,Airbnb
+17,Thai,USA,Disneyland,Golden Gate Bridge,Times Square,Airbnb
+18,Japanese,USA,Golden Gate Bridge,Niagara Falls,Yosemite National Park,Hostel
+19,American ,Thailand,Khao Yai National Park,Wat Arun,Ayutthaya Historical Park,Airbnb
+20,American ,France,Versailles,Provence,Brittany,Airbnb
+21,Japanese,Vietnam,Ha Long Bay,Hoi An Ancient Town,Cu Chi Tunnels,Hostel
+22,Thai,France,Louvre Museum,Nice Beach,Mont Saint-Michel,Hostel
+23,Japanese,UK,Tower of London,Cambridge University,Lake District,Airbnb
+24,Chinese,Thailand,Wat Pho,Chiang Mai Old City,Doi Inthanon,Airbnb
+25,Japanese,UK,Tower of London,Cambridge University,Lake District,Hostel
+26,American,Thailand,Wat Pho,Doi Inthanon,Chiang Mai Old City,Hotel
+27,British,France,Mont Saint-Michel,Louvre Museum,Nice Beach,Hostel
+28,American,Japan,Kyoto Bamboo Grove,Osaka Castle,Nara Deer Park,Hostel
+29,Thai,Thailand,Doi Inthanon,Chiang Mai Old City,Wat Pho,Hostel
+30,French,Italy,Leaning Tower of Pisa,Venice Canals,Colosseum,Airbnb
+31,British,Japan,Kyoto Bamboo Grove,Nara Deer Park,Osaka Castle,Hotel
+32,American,France,Louvre Museum,Mont Saint-Michel,Nice Beach,Hostel
+33,Chinese,Thailand,Doi Inthanon,Wat Pho,Chiang Mai Old City,Airbnb
+34,American,Thailand,Doi Inthanon,Chiang Mai Old City,Wat Pho,Hostel
+35,American,France,Mont Saint-Michel,Louvre Museum,Nice Beach,Hostel
+36,French,UK,Lake District,Tower of London,Cambridge University,Airbnb
+37,British,Italy,Colosseum,Leaning Tower of Pisa,Venice Canals,Airbnb
+38,Thai,Japan,Osaka Castle,Nara Deer Park,Kyoto Bamboo Grove,Hostel
+39,American,Italy,Venice Canals,Colosseum,Leaning Tower of Pisa,Hotel
+40,Thai,UK,Tower of London,Cambridge University,Lake District,Airbnb
